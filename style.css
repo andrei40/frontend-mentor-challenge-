@@ -1,0 +1,44 @@
+ img {
+  width: 100%;               
+  border-radius: 10px;       
+  display: block;
+}
+
+.card {
+  width: 320px;       
+  padding: 20px 20px 200px;      
+  text-align: center; 
+  background:  hsl(0, 0%, 100%);
+  border-radius: 20px;
+  box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.1);
+}
+
+ body {
+    background-color: hsl(218, 44%, 22%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    margin: 0;
+ }
+
+ .container {
+  background-color: hsl(212, 45%, 89%); 
+  padding: 40px 380px;
+
+  display: block;
+}
+
+h2 {
+    font-size: 22px;
+    font-weight: 700;
+    color: hsl(218, 44%, 22%);
+    margin-bottom: 15px;
+}
+
+p {
+  color: hsl(220, 15%, 55%); 
+  
+  line-height: 1.5; 
+}
+ 
